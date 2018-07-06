@@ -1,2 +1,2 @@
 # PLH302-project
-SQL database project
+PostgreSQL database project
