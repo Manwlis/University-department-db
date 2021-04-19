@@ -1,2 +1,2 @@
-# PLH302-project
+# University-department-db
 PostgreSQL database project
